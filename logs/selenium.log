@@ -1,0 +1,1855 @@
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\AppData\Local\Temp\testng-eclipse-633447594\testng-customsuite.xml
+
+2025-04-13 22:21:35 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-04-13 22:21:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:21:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:21:39 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:21:39 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 22:21:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@303a5119: 22 ms
+2025-04-13 22:21:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@75b3673: 0 ms
+2025-04-13 22:21:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@198ef2ce: 4 ms
+2025-04-13 22:21:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4bee18dc: 3 ms
+2025-04-13 22:21:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6de30571: 3 ms
+2025-04-13 22:21:39 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ee34b1b: 0 ms
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\AppData\Local\Temp\testng-eclipse-1608586842\testng-customsuite.xml
+
+2025-04-13 22:23:30 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-04-13 22:23:32 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:23:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:23:34 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:23:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 22:23:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@303a5119: 25 ms
+2025-04-13 22:23:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@75b3673: 0 ms
+2025-04-13 22:23:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@198ef2ce: 4 ms
+2025-04-13 22:23:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4bee18dc: 3 ms
+2025-04-13 22:23:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6de30571: 3 ms
+2025-04-13 22:23:34 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ee34b1b: 0 ms
+2025-04-13 22:44:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-13 22:44:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:44:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:44:24 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:44:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 22:44:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 22:53:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-13 22:53:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:53:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:53:33 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:53:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 22:53:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 22:55:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-13 22:55:13 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:55:14 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:55:15 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:55:16 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 22:55:16 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 22:55:19 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:55:19 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:55:20 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:55:20 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 22:55:20 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 22:55:55 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 22:55:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 22:55:57 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 22:55:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 22:55:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 23:22:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-13 23:22:58 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 23:22:59 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 23:23:00 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 23:23:00 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 23:23:00 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 23:23:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 23:23:03 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 23:23:04 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 23:23:04 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 23:23:04 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 23:23:07 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-13 23:23:07 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-13 23:23:08 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-13 23:23:08 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-13 23:23:08 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:51 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\AppData\Local\Temp\testng-eclipse--986081549\testng-customsuite.xml
+
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73173f63: 35 ms
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7d42c224: 10 ms
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@256f8274: 7 ms
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@485e36bc: 5 ms
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2371aaca: 4 ms
+2025-04-13 23:55:52 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5b529706: 0 ms
+2025-04-13 23:57:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-13 23:57:04 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-13 23:57:05 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-13 23:57:05 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-13 23:57:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-13 23:57:25 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-13 23:57:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-13 23:57:26 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 00:01:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 00:01:22 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 00:01:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 00:01:22 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:26 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\AppData\Local\Temp\testng-eclipse-1433354164\testng-customsuite.xml
+
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73173f63: 36 ms
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7d42c224: 8 ms
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@256f8274: 5 ms
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@485e36bc: 4 ms
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2371aaca: 3 ms
+2025-04-14 00:02:27 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5b529706: 1 ms
+2025-04-14 00:02:38 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 00:02:40 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 00:02:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 00:02:40 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 00:02:41 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 00:03:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 00:03:23 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 00:03:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 00:03:24 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 00:03:24 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 00:03:28 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 00:03:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 00:03:29 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 00:03:29 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 00:03:31 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 00:03:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 00:03:32 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 00:03:32 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 10:05:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 10:05:38 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 10:05:39 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 10:05:40 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 10:05:40 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 10:05:45 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 10:05:46 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 10:05:46 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 10:05:46 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 10:05:53 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 10:05:54 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 10:05:54 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 10:05:55 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 10:58:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 10:58:43 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 10:58:44 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 10:58:44 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 10:58:46 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 10:58:46 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 10:58:50 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 10:58:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 10:58:52 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 10:58:52 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 10:58:52 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 10:58:56 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 10:58:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 10:58:57 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 10:58:57 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 10:58:57 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:01:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:08:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:08:55 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:08:55 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:09:05 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:09:05 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:09:06 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:09:07 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:09:07 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 11:09:07 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:09:08 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:09:08 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:09:19 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:09:19 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:09:19 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:09:20 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:09:30 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:09:30 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:14:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:14:48 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:14:49 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:14:49 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:14:49 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:16:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:16:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:16:56 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:17:06 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:17:06 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:17:07 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:17:07 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:17:08 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 11:17:08 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:17:08 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:17:08 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:17:18 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:17:18 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:17:19 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:17:20 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:17:30 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:17:30 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:18:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:18:55 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:18:55 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:19:06 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:19:06 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:19:06 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:19:06 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:19:07 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 11:19:07 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:19:07 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:19:08 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:19:18 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:19:18 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:19:18 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:19:19 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:19:29 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:19:29 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:23:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:23:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:23:26 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:23:36 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:23:36 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:23:36 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:23:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:23:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:26:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 11:26:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:26:11 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:26:21 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:26:21 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:26:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:26:22 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:26:23 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 11:26:23 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:26:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:26:23 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:26:34 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:26:34 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:26:34 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:26:35 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:26:45 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 11:26:45 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 11:26:45 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 11:26:46 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 11:26:47 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 11:26:47 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:02:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:02:14 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:02:15 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:02:25 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:02:25 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 12:02:25 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:02:26 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:02:26 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 12:02:26 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:02:27 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:02:27 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:02:37 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:02:37 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 12:02:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:02:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:02:48 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:02:48 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 12:02:48 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:02:48 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:02:49 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 12:02:49 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:02:50 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:02:50 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:03:00 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:03:00 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 12:03:01 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:03:01 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:03:11 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:03:11 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 12:03:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:03:11 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:03:22 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:03:22 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 12:35:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:37:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:37:23 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 12:37:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:37:24 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:37:24 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 12:37:24 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:37:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 12:37:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 12:37:27 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 12:37:27 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 12:37:27 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 12:38:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:39:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:41:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:42:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:42:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:42:57 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 12:42:57 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:42:57 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:42:58 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 12:42:58 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:43:00 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 12:43:01 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 12:43:02 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 12:43:02 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 12:43:02 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 12:46:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:46:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:47:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:47:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:49:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:49:38 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 12:49:39 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:49:39 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:49:40 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 12:49:40 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 12:49:42 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 12:49:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 12:49:43 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 12:49:43 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 12:49:43 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 12:49:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 12:49:58 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 12:49:59 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 12:49:59 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 12:50:00 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 12:50:00 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 13:10:05 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 13:10:06 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:06 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:07 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 13:10:07 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:10 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:11 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:21 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:21 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 13:10:21 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:22 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:23 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 13:10:23 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:24 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:24 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:34 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:34 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 13:10:35 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:35 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:45 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:45 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 13:10:46 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:46 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:47 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 13:10:47 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:48 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:48 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:10:58 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:10:58 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 13:10:58 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:10:59 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:11:09 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:11:09 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 13:11:10 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 13:11:10 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 13:11:20 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 13:11:20 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:36:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 14:36:33 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 14:36:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:36:34 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:36:34 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 14:36:34 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:36:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:36:37 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:36:47 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:36:47 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:36:48 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:36:48 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:36:49 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 14:36:49 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:36:49 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:36:49 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:37:00 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:37:00 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:37:00 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:37:00 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:37:10 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:37:10 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:37:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:37:11 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:37:12 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 14:37:12 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:37:12 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:37:12 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:37:22 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:37:22 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:37:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:37:23 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:37:33 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:37:33 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:37:34 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:37:34 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:37:44 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:37:44 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 14:46:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 14:46:27 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 14:46:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:46:28 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:46:29 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 14:46:29 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:46:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 14:46:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 14:46:33 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 14:46:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 14:46:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 14:49:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 14:49:43 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 14:49:43 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:49:44 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:49:45 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 14:49:45 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:49:46 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 14:49:47 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 14:49:48 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 14:49:48 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 14:49:48 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 14:51:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 14:51:51 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 14:51:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 14:51:51 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 14:51:53 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 14:51:53 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 14:51:55 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 14:51:55 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 14:51:56 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 14:51:56 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 14:51:56 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 16:41:24 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 16:41:28 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 16:41:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 16:41:28 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 16:41:29 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 16:41:29 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 16:41:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 16:41:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 16:41:33 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 16:41:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 16:41:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:00:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:00:55 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:00:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:00:57 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:00:57 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 18:00:57 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:01 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:01:01 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:01:03 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:01:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:01:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:01:07 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:07 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:01:17 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:17 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:01:19 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:19 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:01:20 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 18:01:20 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:21 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:21 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:01:31 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:31 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:01:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:32 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:01:42 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:42 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:01:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:43 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:01:43 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 18:01:43 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:44 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:44 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:01:54 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:01:54 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:01:54 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:01:55 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:02:05 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:02:05 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:02:06 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:02:06 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:02:16 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:02:16 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:15:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:15:53 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:15:53 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:15:54 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:16:04 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:16:07 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:16:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:16:12 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:16:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:16:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:19:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:19:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:19:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:19:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:19:48 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:19:51 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:19:52 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:19:53 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:19:53 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:19:53 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:22:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:22:53 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:22:53 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:22:54 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:23:04 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:23:13 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:23:14 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:23:15 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:23:15 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:23:15 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:26:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:26:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:26:38 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:26:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:26:48 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:26:50 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:26:50 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:26:51 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:26:51 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:26:51 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:31:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:31:47 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:31:47 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:31:47 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:31:57 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:32:01 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:32:02 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:32:03 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:32:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:32:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:35:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:35:51 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:35:52 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:35:52 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:36:02 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:36:04 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:36:05 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:36:06 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:36:06 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:36:06 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:36:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:36:56 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:36:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:36:57 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:36:57 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-14 18:36:57 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-14 18:36:59 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 18:37:00 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 18:37:01 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 18:37:01 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 18:37:01 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 18:50:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:50:41 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:50:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:50:42 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:50:52 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 18:59:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 18:59:35 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 18:59:36 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 18:59:36 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 18:59:46 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 19:00:35 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 19:00:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 19:00:38 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 19:00:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 19:00:48 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 19:00:51 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 19:00:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 19:00:52 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 19:00:52 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 19:00:52 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 19:02:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\TestCases.xml
+
+2025-04-14 19:02:25 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 19:02:25 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 19:02:26 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 19:02:36 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 19:02:38 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 19:02:38 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 19:02:39 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 19:02:39 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 19:02:39 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 19:25:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-14 19:25:56 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 19:25:57 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-14 19:25:57 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-14 19:26:07 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-14 19:26:10 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-14 19:26:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-14 19:26:12 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-14 19:26:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-14 19:26:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-14 21:55:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\test-output\testng-failed.xml
+
+2025-04-14 21:55:51 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-14 21:55:54 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-15 08:26:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 08:27:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 08:29:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 08:31:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 08:32:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 08:33:38 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 08:33:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 08:34:38 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 10:22:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 10:22:29 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-15 10:22:29 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-15 10:22:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 20:41:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 20:41:14 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-15 20:41:14 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-15 20:41:15 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-15 20:41:16 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-15 20:41:16 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-15 20:41:18 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 20:41:18 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-15 20:41:20 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-15 20:41:20 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-15 20:41:20 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-15 20:44:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 20:45:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 21:53:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 21:53:22 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-15 21:53:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-15 21:53:23 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-15 21:53:23 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-15 21:53:23 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-15 21:53:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 21:53:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-15 21:53:26 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-15 21:53:27 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-15 21:53:27 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-15 21:53:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 21:53:58 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-15 21:53:58 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-15 21:53:58 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-15 21:53:59 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-15 21:53:59 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-15 21:54:02 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 21:54:02 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-15 21:54:03 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-15 21:54:04 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-15 21:54:04 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-15 21:54:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 21:54:34 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-15 21:54:34 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-15 21:54:35 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-15 21:54:35 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-15 21:54:35 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-15 21:54:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 21:54:38 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-15 21:54:38 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-15 21:54:39 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-15 21:54:39 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-15 21:54:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-15 21:55:00 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-15 21:55:00 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-15 21:55:01 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-15 21:55:02 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-15 21:55:02 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-15 21:55:05 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-15 21:55:05 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-15 21:55:07 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-15 21:55:07 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-15 21:55:07 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 14:10:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-16 14:14:33 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-16 14:14:41 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 14:14:41 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 14:14:42 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 14:14:43 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 14:14:43 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 14:14:47 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 14:14:48 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 14:14:49 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 14:14:49 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 14:14:49 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 14:15:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-16 14:15:44 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 14:15:54 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 14:15:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:38:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:38:09 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:38:19 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:38:22 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:38:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:38:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:38:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:38:38 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:38:38 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:38:42 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:38:43 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:38:44 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:38:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:38:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:39:26 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:39:31 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:39:31 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:39:32 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:39:32 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:39:32 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:39:36 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:39:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:39:38 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:39:38 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:39:38 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:39:52 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:39:55 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:40:05 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:40:08 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:40:22 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:40:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:40:23 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:40:24 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:40:24 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:40:28 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:40:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:40:30 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:40:30 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:40:30 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:42:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:42:30 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:42:40 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:42:43 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:42:58 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:42:59 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:43:00 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:43:00 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:43:00 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:43:04 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:43:05 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:43:06 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:43:06 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:43:06 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:46:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:46:52 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:47:02 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:47:05 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:47:20 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:47:20 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:47:21 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:47:21 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:47:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:47:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:47:27 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:47:27 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:47:27 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:52:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:52:11 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:52:22 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:52:24 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:52:39 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:52:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:52:41 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:52:41 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:52:41 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:52:45 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:52:46 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:52:47 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:52:47 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:52:47 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:55:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:55:11 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:55:21 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:55:24 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:55:38 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:55:38 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:55:39 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:55:40 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:55:40 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:55:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:55:44 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:55:46 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:55:46 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:55:46 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 22:58:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 22:58:36 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:58:46 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 22:58:48 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:59:02 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 22:59:03 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 22:59:04 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 22:59:04 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 22:59:04 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 22:59:10 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 22:59:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 22:59:12 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 22:59:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 22:59:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:05:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:05:08 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:05:18 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 23:05:22 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:05:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:05:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:05:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 23:05:38 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 23:05:38 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:05:42 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:05:43 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:05:44 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:05:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:05:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:08:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:09:03 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:09:13 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 23:09:15 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:09:29 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:09:30 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:09:30 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-16 23:09:31 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-16 23:09:31 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:09:35 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:09:36 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:09:37 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:09:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:09:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:13:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:13:47 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:13:57 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 23:13:59 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:17:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:17:38 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:17:48 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 23:17:50 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:20:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:20:25 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:20:35 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-16 23:20:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:24:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:24:46 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:24:56 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.84)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [37ee9253b56b68be59b71228bfd33ba1, clickElement {id=f.23369E8DB678CA54EE82510902C019DA.d.BE7796B99B296C75121BE8D9E6D05B0C.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.84, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36975}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 135.0.7049.84, se:containerName: f61a3606d909, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (37ee9253b56b68be59b71228bfd33ba1)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 37ee9253b56b68be59b71228bfd33ba1 **********
+2025-04-16 23:24:58 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:30:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:30:14 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:30:24 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.84)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [034c91f2f46c39c4cb6429e362966638, clickElement {id=f.687316639292290DD5FCA54C94FF0CB2.d.52C7268401CB6F99A5E05186FB81AF99.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.84, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36179}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 135.0.7049.84, se:containerName: f61a3606d909, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (034c91f2f46c39c4cb6429e362966638)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 034c91f2f46c39c4cb6429e362966638 **********
+2025-04-16 23:30:26 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:35:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-16 23:35:10 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:35:20 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.95)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [40e04a53a42014cb4a69bd1397b8d7d7, clickElement {id=f.9160D331DD2F7A929DA82DF0A4D91F3D.d.A4C3F6660EF42A4819243A5CC7C908DE.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\psanj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64615}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64615/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (40e04a53a42014cb4a69bd1397b8d7d7)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 40e04a53a42014cb4a69bd1397b8d7d7 **********
+2025-04-16 23:35:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:41:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-16 23:41:40 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:41:45 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:41:45 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-16 23:41:45 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:41:49 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:41:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:41:57 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:41:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:41:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:43:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:43:14 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:43:24 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.84)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2959bf3bb8775b0b90ef005011df8c86, clickElement {id=f.B0DD512364B62C4F2FF5B143B941EBEB.d.6E60483CF3EB02777F7FABA68E163CEC.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.84, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37419}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 135.0.7049.84, se:containerName: f61a3606d909, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (2959bf3bb8775b0b90ef005011df8c86)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 2959bf3bb8775b0b90ef005011df8c86 **********
+2025-04-16 23:43:26 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:46:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:46:40 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:46:50 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.84)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [808d815d466d981fd7c12f16744c2744, clickElement {id=f.A8CAE973A17B663A067C940E2351AB68.d.BDEE6F14244CF08057B408BE37DE46E6.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.84, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:41273}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.18.0.3:4444/sessio..., se:cdpVersion: 135.0.7049.84, se:containerName: f61a3606d909, se:noVncPort: 7900, se:vnc: ws://172.18.0.3:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.18.0.3:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: chrome on linux (808d815d466d981fd7c12f16744c2744)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 808d815d466d981fd7c12f16744c2744 **********
+2025-04-16 23:46:52 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:49:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:49:42 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:49:52 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.95)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b2d51bfbc999ae0c6c151ccf280e993, clickElement {id=f.7511DF580196366A3727289DC7C7226F.d.F41FDB5370AA7C41D357DDC99565068E.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\Users\psanj\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65188}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65188/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (9b2d51bfbc999ae0c6c151ccf280e993)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 9b2d51bfbc999ae0c6c151ccf280e993 **********
+2025-04-16 23:49:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:50:02 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:50:05 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:50:05 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:50:05 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:50:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:50:47 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:50:47 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:50:48 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-16 23:50:48 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:50:50 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:50:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:50:52 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:50:52 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:50:52 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:51:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:51:33 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:51:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:51:33 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-16 23:51:34 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:51:35 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:51:36 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:51:37 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:51:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:51:37 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:52:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-16 23:52:25 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:52:25 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:52:26 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-16 23:52:26 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:52:28 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:52:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:52:29 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:52:29 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:52:29 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-16 23:52:33 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-16 23:52:34 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-16 23:52:34 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-16 23:52:34 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-16 23:52:43 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-16 23:52:44 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-16 23:52:45 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-16 23:52:45 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-16 23:52:45 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 00:16:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-17 00:16:16 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 00:16:16 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 00:16:16 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 00:16:17 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 00:16:20 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 00:16:21 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 00:16:23 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 00:16:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 00:16:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 00:16:28 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 00:16:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 00:16:29 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 00:16:29 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 00:16:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 00:16:35 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 00:16:36 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 00:16:36 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 00:16:36 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 13:29:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-17 13:34:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-17 13:44:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\GridTesting.xml
+
+2025-04-17 17:46:55 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 17:47:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 17:47:50 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 17:47:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 17:47:51 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 17:47:51 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 17:47:54 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 17:47:54 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 17:47:55 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 17:47:55 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 17:47:55 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 21:10:32 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 21:11:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 22:14:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 22:14:54 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 22:14:54 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 22:14:55 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 22:14:55 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 22:14:58 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 22:14:59 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 22:15:00 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 22:15:00 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 22:15:00 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 22:47:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 22:47:26 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 22:47:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 22:47:27 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 22:47:28 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 22:47:30 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 22:47:31 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 22:47:33 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 22:47:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 22:47:33 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 22:48:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 22:48:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\psanj\eclipse-workspace\OpenCartFrameWorkProject\testng.xml
+
+2025-04-17 22:48:21 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 22:48:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 22:48:23 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 22:48:23 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 22:48:26 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 22:48:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 22:48:28 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 22:48:28 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 22:48:28 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 23:24:26 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 23:24:27 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 23:24:29 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 23:24:29 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 23:24:32 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 23:24:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 23:24:34 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 23:24:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 23:24:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 23:26:18 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 23:26:19 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 23:26:19 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 23:26:20 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 23:26:22 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 23:26:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 23:26:25 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 23:26:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 23:26:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 23:34:03 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 23:34:04 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-17 23:34:05 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-17 23:34:05 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-17 23:34:07 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 23:34:07 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-17 23:34:09 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-17 23:34:09 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-17 23:34:09 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-17 23:44:53 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 23:45:03 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.95)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c296e51fae82a0efe2a4b0191d602f3a, clickElement {id=f.6DD75F71F15212C85314A194BF37BB35.d.2F9BC7E954CD4342E105D3725482C1FC.e.39}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61212}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61212/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (c296e51fae82a0efe2a4b0191d602f3a)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: c296e51fae82a0efe2a4b0191d602f3a **********
+2025-04-17 23:45:06 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 23:51:12 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 23:51:23 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: Expected condition failed: waiting for element to be clickable: By.xpath: //span[normalize-space()='My Account'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61294}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61294/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f2b911801d93c2c16198237b4314756 **********
+2025-04-17 23:51:25 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-17 23:54:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-17 23:54:47 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: element not interactable
+  (Session info: chrome=135.0.7049.95)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e8e395d9d3bf9af9c582b8933362b1d8, clickElement {id=f.F2F9CC6F54C0913DA3C4C960C18C9109.d.AD8E2804DB5AE5F093D91589EFB54B75.e.38}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61347}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61347/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e8e395d9d3bf9af9c582b8933362b1d8)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: e8e395d9d3bf9af9c582b8933362b1d8 **********
+2025-04-17 23:54:51 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 00:03:16 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 00:03:17 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 00:03:17 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 00:03:17 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 00:03:20 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 00:03:20 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 00:03:22 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 00:03:22 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 00:03:22 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 00:11:10 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 00:11:10 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 00:11:10 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 00:11:11 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: stale element reference: stale element not found
+  (Session info: chrome=135.0.7049.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2fe0294c4334a568ba9d1be38d3c0e80, isElementDisplayed {id=f.CD2F25ABF47DF4D6C102B2868162C3C6.d.FDA698AF1221C1047C46C5499E2E6E77.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53220}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53220/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2fe0294c4334a568ba9d1be38d3c0e80)] -> xpath: //a[normalize-space()='Qafox.com']]
+Session ID: 2fe0294c4334a568ba9d1be38d3c0e80 **********
+2025-04-18 00:11:15 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 00:11:15 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 00:11:17 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 00:11:17 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 00:11:17 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 00:11:23 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 00:11:23 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: Element <span class="hidden-xs hidden-sm hidden-md"> could not be scrolled into view
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [931e2aea-3c02-464b-b4af-ef5ce77fab35, clickElement {id=79fbdf35-4431-48b5-894f-6b31c998c8c8}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 137.0.2, moz:accessibilityChecks: false, moz:buildID: 20250414091429, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 11916, moz:profile: C:\WINDOWS\SystemTemp\rust_..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Element: [[FirefoxDriver: firefox on windows (931e2aea-3c02-464b-b4af-ef5ce77fab35)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 931e2aea-3c02-464b-b4af-ef5ce77fab35 **********
+2025-04-18 00:11:26 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 00:17:25 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 00:17:26 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 00:17:26 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 00:17:27 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 00:17:29 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 00:17:29 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 00:17:30 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 00:17:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 00:17:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 10:42:03 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 10:42:04 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:42:05 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 10:42:05 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:42:08 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 10:42:09 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 10:42:12 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 10:42:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 10:42:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 10:43:13 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 10:43:14 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:43:14 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 10:43:15 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:43:21 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:43:22 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:43:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:43:34 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:43:35 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 10:43:35 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:43:35 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:43:36 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:43:47 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:43:47 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:43:59 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:44:00 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:44:01 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 10:44:01 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:44:01 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:44:02 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:44:13 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:44:13 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:44:25 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:44:25 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:44:28 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 10:44:29 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 10:44:31 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 10:44:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 10:44:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 10:52:32 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 10:52:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:52:33 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 10:52:34 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:52:39 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:52:39 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:52:40 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 10:52:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:52:51 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:52:52 [main] INFO  TestBase.BaseClass - **********valid credentials, able to login**********
+2025-04-18 10:52:52 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 10:52:52 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:52:53 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:52:53 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:52:54 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 10:53:04 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:53:05 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:53:05 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 10:53:16 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:53:17 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:53:17 [main] INFO  TestBase.BaseClass - **********valid credentials, able to login**********
+2025-04-18 10:53:18 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 10:53:18 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 10:53:18 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:53:19 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:53:19 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 10:53:30 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:53:30 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:53:31 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 10:53:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 10:53:42 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 10:53:43 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 10:53:55 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 10:53:55 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 10:53:57 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 10:53:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 10:53:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:04:25 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:04:25 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:04:35 [main] ERROR TestBase.BaseClass - **********Login Test Failed due to Exception: Expected condition failed: waiting for visibility of element located by By.xpath: //a[@class='list-group-item'][normalize-space()='Logout'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.96, chrome: {chromedriverVersion: 135.0.7049.95 (de2eb485a195..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49846}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49846/devtoo..., se:cdpVersion: 135.0.7049.96, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 87521d493eab2ace59cddd05442dcb69 **********
+2025-04-18 11:04:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:04:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:05:03 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:05:13 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:05:24 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:05:35 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:05:45 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:05:56 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:06:11 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:06:12 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:06:14 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:06:14 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:06:14 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:08:26 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:08:27 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:27 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:28 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:08:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:33 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:34 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 11:08:34 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:34 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:08:35 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:36 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:36 [main] INFO  TestBase.BaseClass - **********valid credentials, able to login**********
+2025-04-18 11:08:37 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:37 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:08:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:38 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:38 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 11:08:39 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:39 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:08:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:40 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:41 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 11:08:41 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:41 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:08:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:43 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:43 [main] INFO  TestBase.BaseClass - **********valid credentials, able to login**********
+2025-04-18 11:08:44 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:44 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:08:44 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:45 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:46 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 11:08:46 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:46 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:08:47 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:48 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:48 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 11:08:49 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:49 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:08:49 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:08:50 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:08:50 [main] INFO  TestBase.BaseClass - **********invliad credentials, but still able to login**********
+2025-04-18 11:08:51 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:08:51 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:08:54 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:08:55 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:08:57 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:08:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:08:57 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:13:37 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:13:37 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:13:38 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:13:39 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:13:43 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:13:44 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:13:45 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:13:45 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:13:46 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:13:46 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:14:50 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:14:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:14:54 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:14:54 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:14:54 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:16:15 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:16:15 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:16:16 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:16:16 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:16:21 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:16:22 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:16:23 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:16:23 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:16:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:16:24 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:17:29 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:17:29 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:17:31 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:17:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:17:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:22:50 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:22:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:22:52 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:22:52 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:22:57 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:22:58 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:22:59 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:22:59 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:22:59 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:00 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:01 [main] INFO  TestBase.BaseClass - **********valid credentials, able to login**********
+2025-04-18 11:23:01 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:23:01 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:23:02 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:03 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:04 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:23:04 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:23:04 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:05 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:06 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:23:06 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:23:07 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:08 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:08 [main] INFO  TestBase.BaseClass - **********valid credentials, able to login**********
+2025-04-18 11:23:09 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:23:09 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:23:09 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:10 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:10 [main] INFO  TestBase.BaseClass - **********Invalid credentials, unable to login**********
+2025-04-18 11:23:10 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:23:11 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:11 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:12 [main] INFO  TestBase.BaseClass - **********Invalid credentials, unable to login**********
+2025-04-18 11:23:12 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:23:13 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:23:13 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:23:14 [main] INFO  TestBase.BaseClass - **********Invalid credentials, unable to login**********
+2025-04-18 11:23:14 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:23:16 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:23:17 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:23:18 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:23:18 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:23:18 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:28:15 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:28:16 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:28:16 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:28:17 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:28:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:28:22 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:28:24 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:28:24 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:28:24 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:28:25 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:28:25 [main] INFO  TestBase.BaseClass - **********valid credentials, but unable to login**********
+2025-04-18 11:28:25 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:29:31 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:29:32 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:29:34 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:29:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:29:34 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:31:29 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:31:29 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:31:30 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:31:30 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:31:34 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:31:35 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:31:36 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:31:36 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:31:36 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:31:37 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:31:37 [main] INFO  TestBase.BaseClass - **********valid credentials, but unable to login**********
+2025-04-18 11:31:37 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:32:41 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:32:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:32:43 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:32:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:32:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:32:58 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:32:58 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:32:59 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:32:59 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:33:01 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:33:02 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:33:03 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:33:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:33:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:34:39 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:34:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:34:40 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:34:41 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:34:44 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:34:44 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:34:45 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:34:46 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:34:46 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:34:49 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:34:50 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:34:51 [main] INFO  TestBase.BaseClass - **********Clicked on Logout**********
+2025-04-18 11:34:51 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:34:51 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:34:51 [main] INFO  TestBase.BaseClass - **********provided all data in Login form and clicked the Login button**********
+2025-04-18 11:34:52 [main] INFO  TestBase.BaseClass - **********valid credentials, but unable to login**********
+2025-04-18 11:34:52 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 11:55:42 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 11:55:42 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:55:42 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 11:55:43 [main] INFO  TestBase.BaseClass - **********Login Test Passed**********
+2025-04-18 11:55:45 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 11:55:46 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 11:55:47 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 11:55:47 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 11:55:47 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 11:55:50 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 11:55:54 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:09 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 12:02:09 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:09 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 12:02:10 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 12:02:12 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 12:02:12 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 12:02:13 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 12:02:13 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 12:02:13 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 12:02:16 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:20 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:24 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:28 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:31 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:35 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:39 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:02:43 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:06 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 12:05:06 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:06 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 12:05:07 [main] ERROR TestBase.BaseClass - **********Login Test Failed**********
+2025-04-18 12:05:09 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 12:05:10 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 12:05:10 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 12:05:11 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 12:05:11 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 12:05:14 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:18 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:25 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:29 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:33 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:36 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:05:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:26:39 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 12:26:40 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:26:40 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 12:26:41 [main] INFO  TestBase.BaseClass - **********Login Test passed***********
+2025-04-18 12:26:43 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 12:26:43 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 12:26:44 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 12:26:45 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 12:26:45 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 12:33:19 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 12:33:19 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 12:33:20 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 12:33:21 [main] INFO  TestBase.BaseClass - **********Login Test passed***********
+2025-04-18 12:33:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 12:33:23 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 12:33:24 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 12:33:24 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 12:33:24 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 12:33:41 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 12:33:46 [main] INFO  TestBase.BaseClass - **********test passed**********
+2025-04-18 12:34:00 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 12:34:14 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 12:34:19 [main] INFO  TestBase.BaseClass - **********test passed**********
+2025-04-18 12:34:33 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:10:20 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 14:10:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 14:10:22 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 14:10:23 [main] INFO  TestBase.BaseClass - **********Login Test passed***********
+2025-04-18 14:11:03 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 14:11:08 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 14:11:10 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 14:11:10 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 14:11:10 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 14:11:55 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:12:05 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:12:05 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:12:09 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:12:10 [main] INFO  TestBase.BaseClass - **********valid credientials,able to login*********
+2025-04-18 14:12:10 [main] INFO  TestBase.BaseClass - **********test passed**********
+2025-04-18 14:12:13 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:12:23 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:12:23 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:12:28 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:12:38 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:12:38 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:12:42 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:12:43 [main] INFO  TestBase.BaseClass - **********valid credientials,able to login*********
+2025-04-18 14:12:43 [main] INFO  TestBase.BaseClass - **********test passed**********
+2025-04-18 14:12:47 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:12:57 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:12:57 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:13:01 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:13:15 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:40:17 [main] INFO  TestBase.BaseClass - **********Login Test Started**********
+2025-04-18 14:40:17 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Login **********
+2025-04-18 14:40:18 [main] INFO  TestBase.BaseClass - **********Provided all data in Login form and clicked the Login button**********
+2025-04-18 14:40:19 [main] INFO  TestBase.BaseClass - **********Login Test passed***********
+2025-04-18 14:40:21 [main] INFO  TestBase.BaseClass - **********Account Registration Test Started**********
+2025-04-18 14:40:22 [main] INFO  TestBase.BaseClass - **********Clicked on myaccount and Register **********
+2025-04-18 14:40:22 [main] INFO  TestBase.BaseClass - **********provided all data in registration form and clicked the continue button**********
+2025-04-18 14:40:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Passed**********
+2025-04-18 14:40:23 [main] INFO  TestBase.BaseClass - **********Account Registration Test Finished**********
+2025-04-18 14:40:30 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:40:40 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:40:40 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:40:44 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:40:45 [main] INFO  TestBase.BaseClass - **********valid credientials,able to login*********
+2025-04-18 14:40:45 [main] INFO  TestBase.BaseClass - **********test passed**********
+2025-04-18 14:40:49 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:41:00 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:41:00 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:41:03 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:41:13 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:41:13 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:41:17 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:41:18 [main] INFO  TestBase.BaseClass - **********valid credientials,able to login*********
+2025-04-18 14:41:18 [main] INFO  TestBase.BaseClass - **********test passed**********
+2025-04-18 14:41:22 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:41:32 [main] INFO  TestBase.BaseClass - **********invalid credientials,unable to login*********
+2025-04-18 14:41:32 [main] INFO  TestBase.BaseClass - ***********test passed***********
+2025-04-18 14:41:36 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
+2025-04-18 14:41:50 [main] INFO  TestBase.BaseClass - *************provided email and password and clicked the login button***********
